@@ -169,7 +169,7 @@ img{
 }
 .social-links{
     display: flex;
-    align-items: center;
+    justify-content: center;
 }
 .social-links a{
     display: flex;
